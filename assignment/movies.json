@@ -1,0 +1,93 @@
+{
+    "movies":[
+        {
+            "id": "1",
+            "title": "Anengers Endgame",
+            "Description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos’ actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+            "Country": "SA",
+            "Genre": "Action, Adventure, Science Fiction",
+            "Year": "2019",
+            "Type": "Movie",
+            "image": "/Images/Rectangle2.jpg"
+
+        
+        },
+        {
+            "id": "2",
+           "title": "Anengers Endgame",
+            "Description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos’ actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+            "Country": "SA",
+            "Genre": "Action, Adventure, Science Fiction",
+            "Year": "2019",
+            "Type": "Movie",
+            "image": "/Images/Rectangle3.jpg"
+
+
+        },
+        {
+            "id": "3",
+            "title": "Anengers Endgame",
+            "Description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos’ actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+            "Country": "SA",
+            "Genre": "Action, Adventure, Science Fiction",
+            "Year": "2019",
+            "Type": "Movie",
+            "image": "/Images/Rectangle4.jpg"
+
+
+
+        },
+        {
+            "id": "4",
+            "title": "Anengers Endgame",
+            "Description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos’ actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+            "Country": "SA",
+            "Genre": "Action, Adventure, Science Fiction",
+            "Year": "2019",
+            "Type": "Movie",
+            "image": "/Images/Rectangle5.jpg"
+        },
+        {
+            "id": "5",
+           "title": "Anengers Endgame",
+            "Description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos’ actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+            "Country": "SA",
+            "Genre": "Action, Adventure, Science Fiction",
+            "Year": "2019",
+            "Type": "Movie",
+            "image": "/Images/Rectangle6.jpg"
+        },
+        {
+            "id": "6",
+           "title": "Anengers Endgame",
+            "Description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos’ actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+            "Country": "SA",
+            "Genre": "Action, Adventure, Science Fiction",
+            "Year": "2019",
+            "Type": "Movie",
+            "image": "/Images/Rectangle7.jpg"
+        },
+        {
+            "id": "7",
+            "title": "Anengers Endgame",
+             "Description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos’ actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+             "Country": "SA",
+             "Genre": "Action, Adventure, Science Fiction",
+             "Year": "2019",
+             "Type": "Movie",
+             "image": "/Images/Rectangle8.jpg"
+
+        },
+        {
+            "id": "8",
+            "title": "Anengers Endgame",
+             "Description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos’ actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+             "Country": "SA",
+             "Genre": "Action, Adventure, Science Fiction",
+             "Year": "2019",
+             "Type": "Movie",
+             "image": "/Images/Rectangle9.jpg"
+
+        }
+    ]
+}
